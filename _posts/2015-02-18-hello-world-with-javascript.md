@@ -56,3 +56,5 @@ Your file should look as below:
 {% endhighlight %}
 
 Now just refresh the page in the browser and Voila you should see 'Hello, World!' as below:
+
+{% img /assets/hello-world-alert.png 1000x600 %}
